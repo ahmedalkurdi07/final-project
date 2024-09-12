@@ -1,0 +1,17 @@
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\bin\Debug\net8.0\Application.Domain.dll
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\bin\Debug\net8.0\Application.Domain.pdb
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Part One For learning\Final Project\final project\final-project\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
