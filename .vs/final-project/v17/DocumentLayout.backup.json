@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "D:\\Part One For learning\\Final Project\\final project\\final-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3D116DA-6FD3-42D0-A6B2-A4534CE84C7A}|Application.API\\Application.API.csproj|d:\\part one for learning\\final project\\final project\\final-project\\application.api\\controllers\\clinicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D116DA-6FD3-42D0-A6B2-A4534CE84C7A}|Application.API\\Application.API.csproj|solutionrelative:application.api\\controllers\\clinicscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3D116DA-6FD3-42D0-A6B2-A4534CE84C7A}|Application.API\\Application.API.csproj|d:\\part one for learning\\final project\\final project\\final-project\\application.api\\controllers\\centerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D116DA-6FD3-42D0-A6B2-A4534CE84C7A}|Application.API\\Application.API.csproj|solutionrelative:application.api\\controllers\\centerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3D116DA-6FD3-42D0-A6B2-A4534CE84C7A}|Application.API\\Application.API.csproj|d:\\part one for learning\\final project\\final project\\final-project\\application.api\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D116DA-6FD3-42D0-A6B2-A4534CE84C7A}|Application.API\\Application.API.csproj|solutionrelative:application.api\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA2B94D4-C564-46B9-B86B-A38E857F5CB1}|Infrastructure\\Infrastructure.csproj|d:\\part one for learning\\final project\\final project\\final-project\\infrastructure\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA2B94D4-C564-46B9-B86B-A38E857F5CB1}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dbcontexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -74,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 227,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Application.API\\Program.cs",
               "RelativeDocumentMoniker": "Application.API\\Program.cs",
@@ -87,50 +75,12 @@
               "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-11T15:14:51.705Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClinicsController.cs",
-              "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Application.API\\Controllers\\ClinicsController.cs",
-              "RelativeDocumentMoniker": "Application.API\\Controllers\\ClinicsController.cs",
-              "ToolTip": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Application.API\\Controllers\\ClinicsController.cs",
-              "RelativeToolTip": "Application.API\\Controllers\\ClinicsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:38:31.928Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CentersController.cs",
-              "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Application.API\\Controllers\\CentersController.cs",
-              "RelativeDocumentMoniker": "Application.API\\Controllers\\CentersController.cs",
-              "ToolTip": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Application.API\\Controllers\\CentersController.cs",
-              "RelativeToolTip": "Application.API\\Controllers\\CentersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:38:30.686Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AddressesController.cs",
-              "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Application.API\\Controllers\\AddressesController.cs",
-              "RelativeDocumentMoniker": "Application.API\\Controllers\\AddressesController.cs",
-              "ToolTip": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Application.API\\Controllers\\AddressesController.cs",
-              "RelativeToolTip": "Application.API\\Controllers\\AddressesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:38:29.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Application.API\\appsettings.json",
               "RelativeDocumentMoniker": "Application.API\\appsettings.json",
@@ -138,11 +88,12 @@
               "RelativeToolTip": "Application.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-17T17:04:48.618Z"
+              "WhenOpened": "2024-09-17T17:04:48.618Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "IAddressRepository.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\Services\\Interfaces\\IAddressRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\Interfaces\\IAddressRepository.cs",
@@ -150,11 +101,12 @@
               "RelativeToolTip": "Infrastructure\\Services\\Interfaces\\IAddressRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T15:15:31.444Z"
+              "WhenOpened": "2024-09-17T15:15:31.444Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "AddressRepository.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\Services\\Classes\\AddressRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\Classes\\AddressRepository.cs",
@@ -162,11 +114,12 @@
               "RelativeToolTip": "Infrastructure\\Services\\Classes\\AddressRepository.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAIwDcAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T14:01:41.907Z"
+              "WhenOpened": "2024-09-17T14:01:41.907Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "PaginationMetaData.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\ViewModels\\PaginationMetaData.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ViewModels\\PaginationMetaData.cs",
@@ -174,24 +127,25 @@
               "RelativeToolTip": "Infrastructure\\ViewModels\\PaginationMetaData.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T14:00:40.769Z"
+              "WhenOpened": "2024-09-17T14:00:40.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\DbContexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\DbContexts\\AppDbContext.cs",
               "ToolTip": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\DbContexts\\AppDbContext.cs",
               "RelativeToolTip": "Infrastructure\\DbContexts\\AppDbContext.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwA4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T19:25:22.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "IInvoiceRepository.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\Services\\Interfaces\\IInvoiceRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\Interfaces\\IInvoiceRepository.cs",
@@ -203,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "ITreatmentRepository.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\Services\\Interfaces\\ITreatmentRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\Interfaces\\ITreatmentRepository.cs",
@@ -215,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\Services\\Classes\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\Classes\\EmployeeRepository.cs",
@@ -227,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "MedicationRepository.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\Services\\Classes\\MedicationRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\Classes\\MedicationRepository.cs",
@@ -239,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "DoctorForUpdate.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\ViewModels\\DoctorForUpdate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ViewModels\\DoctorForUpdate.cs",
@@ -251,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "InvoiceForUpdate.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\ViewModels\\InvoiceForUpdate.cs",
               "RelativeDocumentMoniker": "Infrastructure\\ViewModels\\InvoiceForUpdate.cs",
@@ -263,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "IMedicationRepository.cs",
               "DocumentMoniker": "D:\\Part One For learning\\Final Project\\final project\\final-project\\Infrastructure\\Services\\Interfaces\\IMedicationRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Services\\Interfaces\\IMedicationRepository.cs",
@@ -272,6 +226,10 @@
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-12T14:33:48.638Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

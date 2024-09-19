@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Application.Domain.Models
-{
+{/*  راشيتة دوا*/
     public class Treatment
     {
         [Key]

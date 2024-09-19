@@ -12,7 +12,7 @@ namespace Infrastructure.ViewModels
         public  string? Name { get; set; }
         public  string? Description { get; set; }
         public  decimal? Price { get; set; }
-
+/*        public bool? IsActive { get; set; }*/
         public List<TreatmentMedication>? TreatmentMedications { get; set; } = new List<TreatmentMedication>();
     }
 }
